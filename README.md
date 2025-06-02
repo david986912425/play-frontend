@@ -9,3 +9,8 @@ frontend-app/src/utils/env.ts
 export const BASE_MEDIA_URL = "http://127.0.0.1:3000";
 export const BACKEND_URL = 'http://127.0.0.1:3000/api';
 ```
+
+## Evidencias
+![img.png](img.png)
+
+![img_1.png](img_1.png)
